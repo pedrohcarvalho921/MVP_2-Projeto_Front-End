@@ -38,7 +38,7 @@ Uma vez rodada a aplicação, a mesma será inicializada no browser de forma aut
 
 Para análise do projeto como um todo, disponibilizo os links correspondentes abaixo:
 
-- YouTube - Gravação da Apresentação:
+- YouTube - Gravação da Apresentação: https://www.youtube.com/watch?v=JZ2jbkfk0G0
 - Github - Diretório: https://github.com/pedrohcarvalho921/MVP_2-Projeto_Front-End/
 - Figma - Projeto Público: https://www.figma.com/design/BQvtsPUWlLUuYrwMbTSDYY/Prototipo-MVP---Desenvolvimento-Front-end-Avan%C3%A7ado-(PUC)?node-id=0-1&t=4lGcBO0B2sUWVAd0-0
 - Github - Perfil Pedro: https://github.com/pedrohcarvalho921
