@@ -1,0 +1,18 @@
+[
+  {
+    "setor": "Mineração",
+    "percentual": 10.35
+  },
+  {
+    "setor": "Energia",
+    "percentual": 71.54
+  },
+  {
+    "setor": "Siderurgia",
+    "percentual": 1.72
+  },
+  {
+    "setor": "Financeiro",
+    "percentual": 16.39
+  }
+]

@@ -1,0 +1,58 @@
+[
+  { "mes": "Jan", "variacao": "Mineração", "valorinvestido": 28475 },
+  {
+    "mes": "Fev",
+    "variacao": "Mineração",
+    "valorinvestido": 28475
+  },
+  {
+    "mes": "Mar",
+    "variacao": "Mineração",
+    "valorinvestido": 29775
+  },
+  {
+    "mes": "Abr",
+    "variacao": "Mineração",
+    "valorinvestido": 29775
+  },
+  {
+    "mes": "Mai",
+    "variacao": "Mineração",
+    "valorinvestido": 29775
+  },
+  {
+    "mes": "Jun",
+    "variacao": "Mineração",
+    "valorinvestido": 29775
+  },
+  {
+    "mes": "Jul",
+    "variacao": "Mineração",
+    "valorinvestido": 33275
+  },
+  {
+    "mes": "Ago",
+    "variacao": "Mineração",
+    "valorinvestido": 49275
+  },
+  {
+    "mes": "Set",
+    "variacao": "Mineração",
+    "valorinvestido": 49275
+  },
+  {
+    "mes": "Out",
+    "variacao": "Mineração",
+    "valorinvestido": 51775
+  },
+  {
+    "mes": "Nov",
+    "variacao": "Mineração",
+    "valorinvestido": 57525
+  },
+  {
+    "mes": "Dez",
+    "variacao": "Mineração",
+    "valorinvestido": 57525
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "VALE3",
+    "quantidade": 100,
+    "valor": "R$ 60"
+  },
+  {
+    "nome": "TAEE11",
+    "quantidade": 545,
+    "valor": "R$ 35"
+  },
+  {
+    "nome": "CPFE3",
+    "quantidade": 200,
+    "valor": "R$ 32"
+  },
+  {
+    "nome": "GOAU4",
+    "quantidade": 100,
+    "valor": "R$ 10"
+  },
+  {
+    "nome": "ITSA4",
+    "quantidade": 1000,
+    "valor": "R$ 9.5"
+  },
+  {
+    "nome": "EGIE3",
+    "quantidade": 400,
+    "valor": "R$ 40"
+  }
+]

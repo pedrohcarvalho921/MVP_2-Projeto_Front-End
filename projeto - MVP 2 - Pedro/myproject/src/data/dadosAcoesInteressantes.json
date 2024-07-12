@@ -1,0 +1,38 @@
+{
+  "bancos": [
+    {
+      "nome": "Banco do Brasil",
+      "ticker": "BBAS3",
+      "valorAtual": "37.12"
+    },
+    {
+      "nome": "Itaú Unibanco",
+      "ticker": "ITUB4",
+      "valorAtual": "24.58"
+    }
+  ],
+  "energia": [
+    {
+      "nome": "Taesa",
+      "ticker": "TAEE11",
+      "valorAtual": "37.12"
+    },
+    {
+      "nome": "Engie",
+      "ticker": "EGIE3",
+      "valorAtual": "44.3"
+    }
+  ],
+  "commodities": [
+    {
+      "nome": "Vale",
+      "ticker": "VALE3",
+      "valorAtual": "66"
+    },
+    {
+      "nome": "Petrobras",
+      "ticker": "PETR4",
+      "valorAtual": "34"
+    }
+  ]
+}

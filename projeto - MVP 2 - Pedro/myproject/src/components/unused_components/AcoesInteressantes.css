@@ -1,0 +1,30 @@
+.card-container {
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.card h3 {
+  margin: 8px 0;
+  font-size: 1.2em;
+}
+
+.card p {
+  margin: 4px 0;
+  color: #555;
+}

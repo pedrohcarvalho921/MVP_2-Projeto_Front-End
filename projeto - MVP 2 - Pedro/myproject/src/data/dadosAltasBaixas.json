@@ -1,0 +1,51 @@
+{
+  "MaioresAltas": [
+    {
+      "Ticker": "MGLU3",
+      "Variacao": "+3.70%",
+      "Preco": "R$ 14,01"
+    },
+    {
+      "Ticker": "EZTC3",
+      "Variacao": "+3.26%",
+      "Preco": "R$ 14,26"
+    },
+    {
+      "Ticker": "VAMO3",
+      "Variacao": "+2.87%",
+      "Preco": "R$ 9,32"
+    },
+    {
+      "Ticker": "CYRE3",
+      "Variacao": "+2.59%",
+      "Preco": "R$ 20,56"
+    }
+  ],
+  "MaioresBaixas": [
+    {
+      "Ticker": "JBSS3",
+      "Variacao": "-1.58%",
+      "Preco": "R$ 30,43"
+    },
+    {
+      "Ticker": "WEGE3",
+      "Variacao": "-1.26%",
+      "Preco": "R$ 43,99"
+    },
+    {
+      "Ticker": "AZUL4",
+      "Variacao": "-1.24%",
+      "Preco": "R$ 8,79"
+    },
+    {
+      "Ticker": "VALE3",
+      "Variacao": "-1.16%",
+      "Preco": "R$ 62,29"
+    },
+    {
+      "Ticker": "USIM5",
+      "Variacao": "-1.12%",
+      "Preco": "R$ 7,93"
+    }
+  ]
+}

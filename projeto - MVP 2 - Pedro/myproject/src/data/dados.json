@@ -1,0 +1,17 @@
+{
+  "components": {
+    "title": "Bancos",
+    "description": "Descrição sobre bancos.",
+    "code": "Código de exemplo para bancos."
+  },
+  "jsx": {
+    "title": "Energia",
+    "description": "Descrição sobre energia.",
+    "code": "Código de exemplo para energia."
+  },
+  "props": {
+    "title": "Commodities",
+    "description": "Descrição sobre commodities.",
+    "code": "Código de exemplo para commodities."
+  }
+}

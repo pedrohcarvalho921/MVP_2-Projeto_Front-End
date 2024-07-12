@@ -1,0 +1,37 @@
+.sidebar {
+  width: 125px;
+  height: 100vh;
+  z-index: 100;
+  position: fixed;
+  left: 0;
+  top: auto;
+
+  background-color: #161770;
+  overflow-x: hidden;
+  margin-bottom: auto;
+  padding-top: 20px;
+  bottom: 0;
+}
+
+.sidebar img {
+  margin-top: -50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 52px;
+  height: auto;
+  display: block;
+}
+
+.sidebar_routes {
+  color: white;
+  padding: 25px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 10px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.sidebar_routes:hover {
+  opacity: 0.7;
+}

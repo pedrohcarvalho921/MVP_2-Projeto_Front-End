@@ -1,0 +1,26 @@
+{
+  "Moedas": {
+    "Dólar": {
+      "Variacao": "0.8%",
+      "Compra": "R$ 5,395",
+      "Venda": "R$ 5,403"
+    },
+    "Euro": {
+      "Variacao": "2.2%",
+      "Compra": "R$ 5,830",
+      "Venda": "R$ 5,852"
+    }
+  },
+  "Criptoativos": {
+    "Bitcoin": {
+      "Variacao": "2.5%",
+      "Compra": "R$ 310.000,00",
+      "Venda": "R$ 313.760,00"
+    },
+    "Ethereum": {
+      "Variacao": "1.2%",
+      "Compra": "R$ 16.500,00",
+      "Venda": "R$ 16.939,18"
+    }
+  }
+}

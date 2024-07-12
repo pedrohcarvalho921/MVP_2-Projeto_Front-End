@@ -1,0 +1,34 @@
+.comparar-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex;
+  height: 100vh;
+  padding-top: 20px;
+}
+
+.titulo-carteira {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-collapse: collapse;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+#myTable th,
+#myTable td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+#myTable thead {
+  background-color: #161770;
+  color: white;
+}

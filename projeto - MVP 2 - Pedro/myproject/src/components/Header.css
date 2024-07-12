@@ -1,0 +1,36 @@
+.headerStyle {
+  width: calc(100% - 125px);
+  color: #ffffff;
+  background-color: #c2bcbc;
+  box-sizing: border-box;
+  padding: 41px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-weight: bold;
+  position: fixed;
+  left: 125px;
+  white-space: nowrap;
+  display: flex;
+  z-index: 100;
+  height: 25px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerStyle img {
+  width: 24px;
+  height: 24px;
+  margin: 0 10px;
+}
+
+.appName {
+  color: #ffffff;
+}
+
+.UserName {
+  right: 125px;
+}
+
+.parts {
+  display: flex;
+  align-items: center;
+}

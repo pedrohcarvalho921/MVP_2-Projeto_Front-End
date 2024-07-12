@@ -1,0 +1,74 @@
+[
+  {
+    "label": "Jan",
+    "revenue": 0,
+    "cost": 0,
+    "cdi": 0
+  },
+  {
+    "label": "Fev",
+    "revenue": 4.183458,
+    "cost": -2,
+    "cdi": 1.12
+  },
+  {
+    "label": "Mar",
+    "revenue": -0.2877626,
+    "cost": 4.2,
+    "cdi": 2.050304
+  },
+  {
+    "label": "Abr",
+    "revenue": -2.5532003,
+    "cost": 4.2,
+    "cdi": 3.244293
+  },
+  {
+    "label": "Mai",
+    "revenue": -2.2739242,
+    "cost": 3.8,
+    "cdi": 4.19414
+  },
+  {
+    "label": "Jun",
+    "revenue": 8.0567853,
+    "cost": 3.8,
+    "cdi": 5.361114
+  },
+  {
+    "label": "Jul",
+    "revenue": 14.8868908,
+    "cost": 4.9,
+    "cdi": 6.488478
+  },
+  {
+    "label": "Ago",
+    "revenue": 15.763369,
+    "cost": 4.7,
+    "cdi": 7.627905
+  },
+  {
+    "label": "Set",
+    "revenue": 13.066561,
+    "cost": 6.4,
+    "cdi": 8.854863
+  },
+  {
+    "label": "Out",
+    "revenue": 8.883247,
+    "cost": 8.2,
+    "cdi": 9.910755
+  },
+  {
+    "label": "Nov",
+    "revenue": 13.4345803,
+    "cost": 15.4,
+    "cdi": 11.00986
+  },
+  {
+    "label": "Dez",
+    "revenue": 23.0586083,
+    "cost": 19.9,
+    "cdi": 12.03115
+  }
+]
